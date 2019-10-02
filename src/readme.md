@@ -7,6 +7,6 @@ Modules:
 - voices - Voice for Suzu
 
 Files:
-- [logthings.py](src/logthings.py) - log files creation
-- [main.py](src/main.py) - main function to start the app
-- [suzu.py](src/suzu.py) - main driver class
+- [logthings.py](logthings.py) - log files creation
+- [main.py](main.py) - main function to start the app
+- [suzu.py](suzu.py) - main driver class
