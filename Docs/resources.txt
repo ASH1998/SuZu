@@ -1,1 +1,2 @@
 logo - www.charat.me/
+https://stackoverflow.com/a/10038074/7454706 - for use of system path for the folder ont the project interpreter.
