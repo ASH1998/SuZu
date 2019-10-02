@@ -1,5 +1,3 @@
-import os
-import sys
 
-sys.path.append('SuzuException/')
-from CustomExceptions import NotCompatibleException
+from src.SuzuException.CustomExceptions import NotCompatibleException
+from src.utils.addpackages import all_from

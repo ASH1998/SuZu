@@ -1,1 +1,1 @@
-from .CustomExceptions import NotCompatibleException
+from src.SuzuException.CustomExceptions import NotCompatibleException
