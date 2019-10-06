@@ -5,6 +5,12 @@
 
 Personal Windows AI (that will actually be helpful in daily needs!!).
 
+### Getting Started : 
+1. Install [conda](https://conda.io/projects/conda/en/latest/user-guide/install/index.html?highlight=conda#regular-installation).
+2. Go to this home dir, and open `cmd` or `terminal`.   
+`conda env create -f freeze.yml`   
+This will create a new environment named `suzu` which will include all the base packages needed.
+
 ### Features to work on : 
 
 - Voice for the AI
@@ -13,11 +19,6 @@ Personal Windows AI (that will actually be helpful in daily needs!!).
 - Automation of daily tasks
 - setting up schedulers for the project
 - QnA for the specific system information in which it is placed
-.    
-.      
-.      
-.    
-.      
 
 
 
