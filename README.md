@@ -11,6 +11,16 @@ Personal Windows AI (that will actually be helpful in daily needs!!).
 `conda env create -f freeze.yml`   
 This will create a new environment named `suzu` which will include all the base packages needed.
 
+3. Get your reddit credentials from [here](https://www.reddit.com/prefs/apps/) to train your own chatbot.
+4. Then create a `praw.ini` and place it in `chatbot/` with 
+
+``` python
+[suzu]
+client_id=your_client_id     
+client_secret=secret-key
+username=your_reddit username
+```
+
 ### Features to work on : 
 
 - Voice for the AI
