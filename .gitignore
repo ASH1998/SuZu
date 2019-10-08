@@ -8,3 +8,4 @@ Static/Logo/download (5).png
 __pycache__
 *.db
 *.log
+praw.ini
