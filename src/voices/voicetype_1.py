@@ -30,9 +30,9 @@ class voices:
 
 
 
-v = voices()
-
-v.saypytt("yo whatsup!! My name is Suzu. I am well. How are you ?", volumerate=2.0, voicerate=200)
+# v = voices()
+#
+# v.saypytt("yo whatsup!! My name is Suzu. I am well. How are you ?", volumerate=2.0, voicerate=200)
 
 
 
