@@ -2,8 +2,8 @@ import os
 import sys
 
 sys.path.append('SuzuException/')
-from CustomExceptions import NotCompatibleException
-from suzu import SuZu
+from src.SuzuException.CustomExceptions import NotCompatibleException
+from src.suzu import SuZu
 
 global good_to_go
 
@@ -23,3 +23,4 @@ if good_to_go==0:
 if good_to_go==1:
 	version = sys.version[0]
 	SuZu(version)
+

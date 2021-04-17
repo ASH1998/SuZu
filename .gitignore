@@ -11,3 +11,5 @@ __pycache__
 praw.ini
 chatbot/data/
 *.key
+twitter*
+azure*
